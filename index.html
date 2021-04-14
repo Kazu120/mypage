@@ -4,6 +4,28 @@
   <meta charset="UTF-8">
  </head>
  <body>
-  <h1> "Hello world"</h1>
+  <h1><span style="color:black>Hello world</span></h1>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.7.0/marked.js"></script>  
+
+<script type="text/plain" id="here">
+
+** MD Here **
+
+#Profile
+
+Kazushi
+
+</script>
+
+<script>
+var here = document.getElementById('here').textContent;
+
+var md = marked(here);  
+console.log(md); // Debug
+
+document.body.innerHTML = md;
+</script>  
+
  </body>
 </html>
