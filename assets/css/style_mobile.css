@@ -4,10 +4,12 @@ max-width: 100%;
 height: auto;
 width /***/:auto;
 }
+}
   
 @media screen and (min-width: 640px) {
 .br-sp {
   display: none;
+}
 }
 
   .btn--orange,
