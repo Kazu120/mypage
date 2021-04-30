@@ -1,4 +1,9 @@
-  .btn--orange,
+@media screen and (max-width: 480px) {
+  .br-sp {
+  }
+}
+
+.btn--orange,
 a.btn--orange {
   color: #fff;
   background-color: #eb6100;
