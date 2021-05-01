@@ -18,3 +18,33 @@ a.btn--radius {
    border-radius: 100vh;
    text-decoration: none;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+.wrap {
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 2rem;
+  font-family: 'Playfair Display', serif;
+}
+h1 {
+  font-size: 3rem;
+}
+p {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+h1, p {
+  margin-bottom: 2rem;
+}
+a {
+  color: #0bd;
+}
+.btn {
+  background: #0bd;
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+}
