@@ -70,7 +70,7 @@ li:last-child {
 }
 li a.active {
 	color: #ffffff;
-	background-color: #da3c41;
+	background-color: #4169e1;
 }
 li a:hover:not(.active) {
 	color: #ffffff;
