@@ -48,3 +48,13 @@ a {
   color: #fff;
   text-decoration: none;
 }
+
+#menu {
+  margin:0px;
+  padding:0px;
+}
+
+#menu li {
+  float:left;
+  list-style-type:none;
+}
