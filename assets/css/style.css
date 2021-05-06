@@ -71,3 +71,7 @@ li a:hover:not(.active) {
 	color: #ffffff;
 	background-color: #1b2538;
 }
+
+body {
+	font-family: sans-serif;
+}
