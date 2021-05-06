@@ -45,7 +45,7 @@ a {
 }
 
 ul {
-	max-width: 80%;
+	width: 90vm;
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
