@@ -9,6 +9,13 @@
    background: #f56500;
  }
 
+.btn--aqua,
+ a.btn--orange {
+   color: #fff;
+   background-color: #00FFFF;
+ }
+
+
  a.btn--radius {
     border-radius: 100vh;
     text-decoration: none;
