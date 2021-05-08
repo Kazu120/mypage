@@ -9,15 +9,15 @@
    background: #f56500;
  }
 
-.btn--aqua,
- a.btn--aqua {
+.btn--lime,
+ a.btn--lime {
    color: #fff;
-   background-color: #00FFFF;
+   background-color: #00FF00;
  }
- .btn--aqua:hover,
- a.btn--aqua:hover {
+ .btn--lime:hover,
+ a.btn--lime:hover {
    color: #fff;
-   background: #00d6c7;
+   background: #32cd32;
  }
 
  a.btn--radius {
