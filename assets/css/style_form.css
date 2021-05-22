@@ -15,6 +15,6 @@
 	border-radius: 4px;
 }
 .ef input[type='text']:focus {
-	border: 5px solid #00FF00;
+	border: 5px solid #FF0000;
 	outline: none;
 }
