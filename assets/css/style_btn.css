@@ -45,3 +45,16 @@ a.btn--calc {
    color: #fff;
    background: #f56500;
  }
+
+.btn--calc--blue,
+a.btn--calc--blue {
+ background: #4169e1;
+ color: #fff;
+ text-decoration: none;
+ border-radius: 10px;
+}.btn--calc--blue:hover,
+ a.btn--calc--blue:hover {
+   color: #fff;
+   background: #4169e1;
+ }
+
