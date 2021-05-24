@@ -34,10 +34,14 @@
   text-decoration: none;
 }
 
-.btn-calc {
+.btn--calc,
+a.btn--calc {
  background: #f56500;
  color: #fff;
  text-decoration: none;
  border-radius: 10px;
-}
- color: #fff
+}.btn--calc:hover,
+ a.btn--calc:hover {
+   color: #fff;
+   background: #f56500;
+ }
