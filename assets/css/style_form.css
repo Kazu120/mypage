@@ -19,7 +19,7 @@
 	outline: none;
 }
 
-.calcform {
+calcform {
     width: 100%; /*親要素いっぱい広げる*/
     padding: 10px 15px; /*ボックスを大きくする*/
     font-size: 16px;
