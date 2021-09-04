@@ -20,25 +20,26 @@ a {
   color: #0bd;
 }
 
+body {
+	color: #fff;
+}
+
 ul {
 	width: 100vm;
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
-	color: #000000;
 }
 li a {
 	display: block;
 	padding: 8px 16px;
 	text-decoration: none;
-	color: #000000;
 }
 li {
 	text-align: center;
 }
 li:last-child {
 	border-bottom: none;
-	color: #000000;
 }
 li a.active {
 	color: #ffffff;
@@ -55,9 +56,6 @@ body {
 
 @media (prefers-color-scheme: dark){
 	:root {
-		ul {
-			color: #fff;
-		}
 		background-color: #000;
 		color: #fff;
 	}
