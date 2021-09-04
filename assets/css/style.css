@@ -55,6 +55,9 @@ body {
 
 @media (prefers-color-scheme: dark){
 	:root {
+		ul {
+			color: #fff;
+		}
 		background-color: #000;
 		color: #fff;
 	}
