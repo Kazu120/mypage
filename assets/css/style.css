@@ -54,6 +54,9 @@ body {
 }
 
 @media (prefers-color-scheme: dark){
+	li a {
+		color: #ffffff;
+	}
 	:root {
 		background-color: #000;
 		color: #fff;
