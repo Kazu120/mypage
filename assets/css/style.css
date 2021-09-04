@@ -34,6 +34,7 @@ li a {
 }
 li {
 	text-align: center;
+	color: #ffffff;
 }
 li:last-child {
 	border-bottom: none;
