@@ -60,3 +60,12 @@ body {
 		color: #fff;
 	}
 }
+@media (prefers-color-scheme: light){
+	li a {
+		color: #000000;
+	}
+	:root {
+		background-color: #ffffff;
+		color: #000000;
+	}
+}
