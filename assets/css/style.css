@@ -81,3 +81,7 @@ body {
     margin: 0; 
     padding: 0;
 }
+
+@media screen and (min-width: 480px) {
+.br-sp {display: none; }
+}
