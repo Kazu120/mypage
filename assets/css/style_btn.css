@@ -34,6 +34,15 @@
   text-decoration: none;
 }
 
+.btn--small {
+  background: #0bd;
+  padding: 5px 10px;
+  border-radius: 2.5;
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+}
+
 .btn--calc,
 a.btn--calc {
  background: #f56500;
