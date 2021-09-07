@@ -1,10 +1,7 @@
 const output = document.querySelector('#output');
 
-if(window.matchMedia('(prefers-color-scheme: dark)').matches === true){
+if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
   output.innerHTML = "あなたは既にダークモードを使用しています";
-  
-}else{
-  (window.matchMedia('(prefers-color-scheme: light)').matches === light){
+} else {
     output.innerHTML = "コントロールセンターからダークモードに変更してみてください";
-  }
 }
