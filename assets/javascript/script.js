@@ -4,7 +4,7 @@ if(window.matchMedia('(prefers-color-scheme: dark)').matches === true){
   output.innerHTML = "あなたは既にダークモードを使用しています";
   
 }else{
-  (window.matchMedia('(prefers-color-scheme: dark)').matches === true){
+  (window.matchMedia('(prefers-color-scheme: light)').matches === light){
     output.innerHTML = "コントロールセンターからダークモードに変更してみてください";
   }
 }
