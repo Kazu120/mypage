@@ -126,12 +126,8 @@ ul.topnav li.right {
 	}
 }
 @media (prefers-color-scheme: light){
-	ul.topnav li a {
-		color: #000000;
-	}
 	:root {
 		background-color: #ffffff;
-		color: #000000;
 	}
 
 
