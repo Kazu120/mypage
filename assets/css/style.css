@@ -115,3 +115,23 @@ ul.topnav li.right {
 		float: none;
 	}
 }
+
+@media (prefers-color-scheme: dark){
+	ul.topnav li a {
+		color: #ffffff;
+	}
+	:root {
+		background-color: #000;
+		color: #fff;
+	}
+}
+@media (prefers-color-scheme: light){
+	ul.topnav li a {
+		color: #000000;
+	}
+	:root {
+		background-color: #ffffff;
+		color: #000000;
+	}
+
+
