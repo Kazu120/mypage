@@ -93,7 +93,7 @@ ul.topnav {
 	list-style-type: none;
 }
 ul.topnav li {
-	
+	float: center;
 }
 ul.topnav li a {
 	display: block;
