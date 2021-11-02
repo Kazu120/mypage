@@ -84,6 +84,10 @@ body {
 
 @media screen and (min-width: 480px) {
 .br-sp {display: none; }
+.hstack{
+  display: inline-block; /* インライン要素にすることで横に回り込む */
+  vertical-align: middle; /* 上下中央に寄せる */ 
+}
 }
 
 ul.topnav {
