@@ -148,3 +148,8 @@ h2.www h2 {
   display: inline-block; /* インライン要素にすることで横に回り込む */
   vertical-align: middle; /* 上下中央に寄せる */ 
 }
+
+.leftline hr {
+	width: 50%;
+	align: left;
+	}
