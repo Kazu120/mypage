@@ -7,9 +7,6 @@
   font-family: 'Playfair Display', serif;
 }
 
-a {
-color:#;
-}
 
 h1 {
   font-size: 3rem;
@@ -126,6 +123,9 @@ ul.topnav li.right {
 }
 
 @media (prefers-color-scheme: dark){
+	a {
+		color:#00bfff;
+	}
 	ul.topnav li a {
 		color: #ffffff;
 	}
@@ -135,6 +135,9 @@ ul.topnav li.right {
 	}
 }
 @media (prefers-color-scheme: light){
+	a {
+		color:#000ff;
+	}
 	:root {
 		background-color: #ffffff;
 	}
