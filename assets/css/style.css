@@ -153,3 +153,10 @@ h2.www h2 {
 	width: 50%;
 	align: left;
 	}
+	
+	
+.br-half {
+display: block;
+content: "";
+padding: 5px 0;
+}
