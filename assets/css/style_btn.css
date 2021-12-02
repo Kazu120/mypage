@@ -114,7 +114,7 @@ rgb(127, 194, 239);
 }
 
 /* close button's control */
-.add-control .action-close #close:checked ~ .btn {
+.add-control .action-close #close:checked ~ .btn2 {
     display: none;
 }
 .add-control .action-close #close:checked ~ .box {
