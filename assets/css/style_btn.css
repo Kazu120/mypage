@@ -74,10 +74,8 @@ a.btn--calc--blue {
     border-radius: .3em;
     text-align: center;
     display: table;
-    cursor: pinter; 
 }
 .btn2:hover {
-    cursor: pinter; 
 }
 .btn2:active {
     background: #32cd32;
