@@ -68,10 +68,8 @@ a.btn--calc--blue {
  }
 
 .btn2 {
-    color: 
-#fff;
-    background: 
-rgba(127, 194, 239, .5);
+    color: #fff;
+    background: #0d;
     padding: .3em .5em;
     border-radius: .3em;
     text-align: center;
@@ -82,14 +80,13 @@ rgba(127, 194, 239, .5);
     cursor: pinter; 
 }
 .btn2:active {
-    background: 
-rgb(127, 194, 239);
+    background: #32cd32;
 }
 .box {
     border: 2px solid 
 #d685b0;
     border-radius: .3em;
-    height: 200px;
+    height: 50px;
 }
 
 /* close button */
