@@ -67,50 +67,8 @@ a.btn--calc--blue {
    background: #4169e1;
  }
 
-.btn2 {
-    color: #fff;
-    background: #0bd;
-    padding: .3em .5em;
-    border-radius: .3em;
-    text-align: center;
-    display: table;
+.datetext {
+ color: #a9a9a9;
+ font-size: 8px;
 }
-.btn2:hover {
-}
-.btn2:active {
-    background: #32cd32;
-}
-.box {
-    border: 2px solid 
-#d685b0;
-    border-radius: .3em;
-}
-
-/* close button */
-.action-close {
-    position: relative;
-    margin-top: 2em;
-}
-.action-close .btn2 {
-    position: absolute;
-    right: 0;
-    top: -1em;
-}
-.action-close .box {
-    margin-bottom: 2em;
-    border: 2px solid ;
-}
-
-/* checkbox non-display */
-.add-control .checkbox {
-    display: none;
-}
-
-/* close button's control */
-.add-control .action-close #close:checked ~ .btn2 {
-    display: none;
-}
-.add-control .action-close #close:checked ~ .box {
-    display: none;
-}
-
+ 
