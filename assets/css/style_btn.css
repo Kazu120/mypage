@@ -84,7 +84,6 @@ a.btn--calc--blue {
     border: 2px solid 
 #d685b0;
     border-radius: .3em;
-    height: 50px;
 }
 
 /* close button */
@@ -99,8 +98,7 @@ a.btn--calc--blue {
 }
 .action-close .box {
     margin-bottom: 2em;
-    border: 2px solid 
-rgb(127, 194, 239);
+    border: 2px solid ;
 }
 
 /* checkbox non-display */
