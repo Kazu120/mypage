@@ -18,7 +18,7 @@ h1, p {
   margin-bottom: 2rem;
 }
 a {
-  color: #;
+  color: blue;
 }
 
 ul {
@@ -75,7 +75,6 @@ body {
 
 .infobox {
     padding: 0.5em 1em;
-    margin: 2em 0;
     color: #232323;
     background: #fff8e8;
     border-left: solid 10px #ffc06e;
@@ -137,7 +136,7 @@ ul.topnav li.right {
 }
 @media (prefers-color-scheme: light){
 	a {
-		color:#000ff;
+		color:blue;
 	}
 	:root {
 		background-color: #ffffff;
@@ -149,7 +148,6 @@ h2.www h2 {
   padding: 1rem 3rem;
   color: #fff;
   border-radius: 100vh;
-  background-image: -webkit-gradient(linear, right top, left top, from(#9be15d), to(#00e3ae));
   background-image: -webkit-linear-gradient(right, #9be15d 0%, #00e3ae 100%);
   background-image: linear-gradient(to left, #9be15d 0%, #00e3ae 100%);
 }
