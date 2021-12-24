@@ -86,9 +86,12 @@ body {
 
 @media screen and (min-width: 480px) {
 .br-sp {display: none; }
+.padding1a {
+	padding: 0px 15px 5px 15px;
+}
 .hstack{
-  display: inline-block; /* インライン要素にすることで横に回り込む */
-  vertical-align: middle; /* 上下中央に寄せる */ 
+  display: inline-block;
+  vertical-align: middle;
 }
 }
 
@@ -117,6 +120,9 @@ ul.topnav li.right {
 	float: right;
 }
 @media screen and (max-width: 480px) {
+	.padding1a {
+		padding: 0px 5px 0px 5px;
+	}
 	ul.topnav li.right, ul.topnav li {
 		float: none;
 	}
