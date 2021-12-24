@@ -86,6 +86,7 @@ body {
 
 @media screen and (min-width: 480px) {
 .br-sp {display: none; }
+.pcnone {display: none; }
 .padding1a {
 	padding: 0px 15px 5px 15px;
 }
@@ -123,6 +124,7 @@ ul.topnav li.right {
 	.padding1a {
 		padding: 0px 5px 0px 5px;
 	}
+	.mobilenone {display: none; }
 	ul.topnav li.right, ul.topnav li {
 		float: none;
 	}
