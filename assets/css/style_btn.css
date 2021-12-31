@@ -20,13 +20,23 @@
    background: #32cd32;
  }
 
+ .btn--blue,
+ a.btn--blue {
+   color: #fff;
+   background-color: #4169e1;
+ }
+ .btn--lime:blue,
+ a.btn--lime:bluer {
+   color: #fff;
+   background: #4169e1;
+ }
+
  a.btn--radius {
     border-radius: 100vh;
     text-decoration: none;
  }
 
 .btn {
-  background: #0bd;
   padding: 10px 20px;
   border-radius: 5px;
   display: inline-block;
