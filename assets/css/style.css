@@ -8,16 +8,9 @@
 	font-family: 'Playfair Display', serif;
 }
 
-
 h1 {
 	font-size: 3rem;
 }
-
-p {
-	font-size: 100%;
-}
-
-
 
 a {
 	color: blue;
@@ -204,7 +197,7 @@ h2.www h2 {
 
 .leftline hr {
 	width: 50%;
-	align: left;
+	text-align: left;
 }
 
 
