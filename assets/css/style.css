@@ -260,7 +260,3 @@ h2.www h2 {
 .cp_cssslider input[name='cp_switch']:checked+label+img {
 	opacity: 1;
 }
-
-tr.aaa {
-	background-color: rgb(219, 216, 216);
-}
