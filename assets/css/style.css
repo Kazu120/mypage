@@ -12,6 +12,10 @@ h1 {
 	font-size: 3rem;
 }
 
+h2 {
+	padding: auto;
+}
+
 a {
 	color: blue;
 }
