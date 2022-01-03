@@ -95,8 +95,14 @@ body {
 	text-align: center;
 }
 
-.left {
+.hr-center {
+	text-align: center;
+	margin-left:0px;
+}
+
+.hr-left {
 	text-align: left;
+	margin-left:0px;
 }
 
 @media screen and (min-width: 480px) {
