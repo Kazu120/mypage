@@ -8,10 +8,6 @@
 	font-family: 'Playfair Display', serif;
 }
 
-h1 {
-	font-size: 3rem;
-}
-
 h2 {
 	padding: auto;
 }
@@ -51,10 +47,6 @@ li a.active {
 li a:hover:not(.active) {
 	color: #ffffff;
 	background-color: #1b2538;
-}
-
-body {
-	font-family: sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
