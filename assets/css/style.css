@@ -202,14 +202,7 @@ h2.www h2 {
 	background-image: linear-gradient(to left, #9be15d 0%, #00e3ae 100%);
 }
 
-.hstack {
-	display: inline-block;
-	/* インライン要素にすることで横に回り込む */
-	vertical-align: middle;
-	/* 上下中央に寄せる */
-}
-
-.leftline hr {
+.leftline {
 	width: 50%;
 	text-align: left;
 }
@@ -273,8 +266,4 @@ h2.www h2 {
 
 .cp_cssslider input[name='cp_switch']:checked+label+img {
 	opacity: 1;
-}
-
-p.h2aa {
-	font-size: xx-large;
 }
