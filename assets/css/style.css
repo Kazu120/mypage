@@ -274,3 +274,7 @@ h2.www h2 {
 .cp_cssslider input[name='cp_switch']:checked+label+img {
 	opacity: 1;
 }
+
+.h2aa {
+	font-size: xx-large;
+}
