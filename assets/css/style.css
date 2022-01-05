@@ -268,3 +268,8 @@ h2 {
 	margin-block-end: 0;
 	margin-block-start: 0;
 }
+
+h2.title {
+	margin-block-end: 0;
+	margin-block-start: 0.5;
+}
