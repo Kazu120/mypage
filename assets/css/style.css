@@ -274,7 +274,7 @@ h2.title {
 	margin-block-start: 0.5;
 }
 
-br.br-left {
+.br-left {
 	text-align: left;
 	margin-left:0px;
 	width: 50%;
