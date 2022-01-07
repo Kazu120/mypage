@@ -183,6 +183,13 @@ ul.topnav li.right {
 		background-color: #000;
 		color: #fff;
 	}
+
+	.codehighlight {
+		background-color: darkgray;
+		color: white;
+		font-size: medium;
+		font-family: cursive;
+	}
 }
 
 @media (prefers-color-scheme: light) {
