@@ -141,6 +141,10 @@ ul.topnav li.right {
 		margin-block-start: 5px;
 	}
 
+	.padding1aaa {
+		margin-block-start: 5px;
+	}
+
 	.pcnone {
 		display: none;
 	}
@@ -159,6 +163,10 @@ ul.topnav li.right {
 	.padding1aa {
 		padding: 5px 5px 0px 5px;
 		margin-block-start: 5px;
+	}
+
+	.padding1aaa {
+		margin-block-start: 10px;
 	}
 
 	.mobilenone {
