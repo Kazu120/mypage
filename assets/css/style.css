@@ -97,25 +97,6 @@ li a:hover:not(.active) {
 	margin-left:0px;
 }
 
-@media screen and (min-width: 480px) {
-	.br-sp {
-		display: none;
-	}
-
-	.padding1a {
-		padding: 0px 15px 5px 15px;
-	}
-
-	.pcnone {
-		display: none;
-	}
-
-	.hstack {
-		display: inline-block;
-		vertical-align: middle;
-	}
-}
-
 ul.topnav {
 	overflow: hidden;
 	margin: 0;
@@ -146,9 +127,38 @@ ul.topnav li.right {
 	float: right;
 }
 
+@media screen and (min-width: 480px) {
+	.br-sp {
+		display: none;
+	}
+
+	.padding1a {
+		padding: 0px 15px 5px 15px;
+	}
+
+	.padding1aa {
+		padding: 0px 15px 5px 15px;
+		margin-block-start: 5px;
+	}
+
+	.pcnone {
+		display: none;
+	}
+
+	.hstack {
+		display: inline-block;
+		vertical-align: middle;
+	}
+}
+
 @media screen and (max-width: 480px) {
 	.padding1a {
 		padding: 0px 5px 0px 5px;
+	}
+
+	.padding1aa {
+		padding: 0px 5px 0px 5px;
+		margin-block-start: 5px;
 	}
 
 	.mobilenone {
@@ -229,8 +239,6 @@ body {
 .cp_cssslider input[name='cp_switch'] {
 	display: none;
 }
-
-/* サムネイル */
 .cp_cssslider label {
 	margin: 15px 5px 0 5px;
 	border: 2px solid #ffffff;
