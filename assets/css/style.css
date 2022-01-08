@@ -311,3 +311,7 @@ p {
 .margin-block-end {
 	margin-block-end: 1%;
 }
+
+.contentA,.contentB{
+	width: 50%;
+  }
