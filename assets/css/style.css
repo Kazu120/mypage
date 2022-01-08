@@ -184,14 +184,6 @@ ul.topnav li.right {
 	ul.topnav li.right, ul.topnav li {
 		float: none;
 	}
-
-	.contentA {
-		width: 100%;
-	}
-	
-	.contentB {
-		width: 100%;
-	}
 }
 
 @media (prefers-color-scheme: dark) {
