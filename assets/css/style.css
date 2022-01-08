@@ -161,6 +161,10 @@ ul.topnav li.right {
 	.contentB {
 		width: 30%;
 	}
+
+	.flex1a {
+		display: flex;
+	}
 }
 
 @media screen and (max-width: 480px) {
