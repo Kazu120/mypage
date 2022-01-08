@@ -89,12 +89,12 @@ li a:hover:not(.active) {
 
 .hr-center {
 	text-align: center;
-	margin-left:0px;
+	margin-left: 0px;
 }
 
 .left1a {
 	text-align: left;
-	margin-left:0px;
+	margin-left: 0px;
 }
 
 ul.topnav {
@@ -254,6 +254,7 @@ body {
 .cp_cssslider input[name='cp_switch'] {
 	display: none;
 }
+
 .cp_cssslider label {
 	margin: 15px 5px 0 5px;
 	border: 2px solid #ffffff;
@@ -299,7 +300,7 @@ h2.title {
 
 .br-left {
 	text-align: left;
-	margin-left:0px;
+	margin-left: 0px;
 	width: 50%;
 }
 
@@ -312,6 +313,10 @@ p {
 	margin-block-end: 1%;
 }
 
-.contentA,.contentB{
-	width: 50%;
-  }
+.contentA {
+	width: 70%;
+}
+
+.contentB {
+	width: 30%;
+}
