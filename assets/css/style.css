@@ -155,11 +155,11 @@ ul.topnav li.right {
 	}
 
 	.contentA {
-		width: 100%;
+		width: 70%;
 	}
 	
 	.contentB {
-		width: 100%;
+		width: 30%;
 	}
 }
 
@@ -186,11 +186,11 @@ ul.topnav li.right {
 	}
 
 	.contentA {
-		width: 70%;
+		width: 100%;
 	}
 	
 	.contentB {
-		width: 30%;
+		width: 100%;
 	}
 }
 
