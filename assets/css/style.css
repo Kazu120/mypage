@@ -153,6 +153,14 @@ ul.topnav li.right {
 		display: inline-block;
 		vertical-align: middle;
 	}
+
+	.contentA {
+		width: 100%;
+	}
+	
+	.contentB {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 480px) {
@@ -175,6 +183,14 @@ ul.topnav li.right {
 
 	ul.topnav li.right, ul.topnav li {
 		float: none;
+	}
+
+	.contentA {
+		width: 70%;
+	}
+	
+	.contentB {
+		width: 30%;
 	}
 }
 
@@ -311,12 +327,4 @@ p {
 
 .margin-block-end {
 	margin-block-end: 1%;
-}
-
-.contentA {
-	width: 70%;
-}
-
-.contentB {
-	width: 30%;
 }
