@@ -324,3 +324,8 @@ p {
 .margin-block-end {
 	margin-block-end: 1%;
 }
+
+.jaonly {
+	color: gray;
+	font-size: small;
+}
