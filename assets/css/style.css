@@ -10,7 +10,7 @@
 
 .linkHover:hover {
 	color: #ffc06e;
-	transition: 0.5s;
+	transition: 0.2s;
 }
 
 h2 {
@@ -52,6 +52,7 @@ li a.active {
 li a:hover:not(.active) {
 	color: #ffffff;
 	background-color: #1b2538;
+	transition: 0.2s;
 }
 
 @media (prefers-color-scheme: dark) {
