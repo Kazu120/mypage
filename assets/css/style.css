@@ -10,6 +10,7 @@
 
 .linkHover:hover {
 	color: #ffc06e;
+	transition: 0.5s;
 }
 
 h2 {
