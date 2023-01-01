@@ -8,6 +8,10 @@
 	font-family: 'Playfair Display', serif;
 }
 
+.linkHover:hover {
+	color: #ffc06e;
+}
+
 h2 {
 	padding: auto;
 }
