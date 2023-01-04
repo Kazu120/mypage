@@ -49,6 +49,12 @@ li a.active {
 	background-color: #4169e1;
 }
 
+li a.active:hover {
+	color: #ffffff;
+	background-color: #eb6100;
+transition: 0.4s;
+}
+
 li a:hover:not(.active) {
 	color: #ffffff;
 	background-color: #1b2538;
