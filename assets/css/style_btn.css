@@ -6,7 +6,7 @@
  .btn--orange:hover,
  a.btn--orange:hover {
    color: #fff;
-   background: #f56500;
+   background: #947056;
  }
 
 .btn--lime,
@@ -20,11 +20,19 @@
    background: #32cd32;
  }
 
- .btn--blue,
- a.btn--blue {
+ .btn--normal,
+ a.btn--normal {
    color: #fff;
    background-color: #4169e1;
  }
+
+ .btn--normal:hover,
+ a.btn--normal:hover {
+   color: #fff;
+   background-color: #eb6100;
+   transition: 0.4s;
+ }
+
  .btn--lime:blue,
  a.btn--lime:bluer {
    color: #fff;
